@@ -1,0 +1,11 @@
+{
+  "name": "chessr",
+  "version": "1.0.0",
+  "description": "chess engine written in rust with a python gui",
+  "scripts": {
+    "start": "echo e",
+    "build": "cargo build --release"
+    },
+  "author": "",
+  "license": "ISC"
+}
